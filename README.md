@@ -1,3 +1,3 @@
 # PracticasCodeArts_
-Alejandro Aroka Vital con CodeArts
+Alejandro Aroca Vital con CodeArts
  
